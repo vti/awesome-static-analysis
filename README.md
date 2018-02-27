@@ -473,6 +473,7 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 * [CodeFactor](https://codefactor.io) :copyright: - Automated Code Analysis for repos on GitHub or BitBucket.
 * [Functor Prevent](http://www.functor.se/products/prevent/) :copyright: - Static code analysis for C code.
 * [kiuwan](https://www.kiuwan.com/) :copyright: - Software Analytics in the Cloud supporting more than 22 programming languages.
+* [Kritika](https://kritika.io) :copyright: - Best Practices, Security violations and Duplication detection for C/C++, Bash, Perl, Tcl, JavaScript, Markdown and others, integrated with GitHub, GitLab and BitBucket
 * [Landscape](https://landscape.io/) :copyright: - Static code analysis for Python
 * [Nitpick CI](https://nitpick-ci.com) :copyright: - Automated PHP code review
 * [Node Security Platform](https://nodesecurity.io/) :copyright: - Continuous Security monitoring for your node apps (free for Open Source Projects)
